@@ -53,7 +53,7 @@ public class main {
 		
 		//initialize the hiden color
 		image.setColorKey(SDLVideo.SDL_SRCCOLORKEY, image.mapRGB(191, 255, 255));
-		image.setAlpha(SDLVideo.SDL_SRCALPHA, 50);
+		image.setAlpha(SDLVideo.SDL_SRCALPHA, 90);
 		
 		while(boucle){
 			
